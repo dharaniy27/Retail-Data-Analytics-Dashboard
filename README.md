@@ -6,7 +6,7 @@ Customer Behavior: Analyze purchasing patterns to identify top-spending segments
 Regional Optimization: Visualize geographical performance to pinpoint underperforming markets and high-growth areas.
 
 Operational Efficiency: Streamline inventory insights by identifying top-selling vs. slow-moving products.
-<a href = "https://app.powerbi.com/groups/me/dashboards/e5164893-33fe-445c-8342-fd6471a0ad98?experience=power-bi"> Dashboard
+- <a href = "https://app.powerbi.com/groups/me/dashboards/e5164893-33fe-445c-8342-fd6471a0ad98?experience=power-bi"> Dashboard
 ## Key Insights
 Growth Trends: Identified a significant seasonal peak in Q4, contributing to 35% of annual revenue, suggesting a need for increased inventory during holiday months.
 
