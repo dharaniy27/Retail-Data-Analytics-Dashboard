@@ -1,2 +1,8 @@
-# Retail-Data-Analytics-Dashboard
-Developed a Retail Sales Dashboard in Power BI to analyze regional performance and product trends. Used Power Query for ETL on transactional data and created DAX measures for Revenue, Profit Margin, and Year-over-Year growth. Delivered insights that optimized inventory management and identified high-margin customer segments.
+## Project Objective
+Sales Tracking: Monitor total revenue, profit margins, and sales volume across various product categories and time periods.
+
+Customer Behavior: Analyze purchasing patterns to identify top-spending segments and seasonal trends.
+
+Regional Optimization: Visualize geographical performance to pinpoint underperforming markets and high-growth areas.
+
+Operational Efficiency: Streamline inventory insights by identifying top-selling vs. slow-moving products.
